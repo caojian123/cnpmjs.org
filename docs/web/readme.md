@@ -147,7 +147,7 @@ Release [History](/history).
 
 ## npmjs.org, cnpmjs.org and npm.taobao.org relation
 
-![npm&cnpm](https://cloud.githubusercontent.com/assets/543405/21505401/fd0b6220-cca1-11e6-86ed-599cc81bb03b.png)
+![npm&cnpm](https://cloud.githubusercontent.com/assets/543405/21505401/fd0b6220-cca1-11e6-86ed-599cc81bb03b.png){width="100%"}
 
 ## Sponsors
 

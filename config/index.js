@@ -82,7 +82,7 @@ var config = {
   admins: {
     // name: email
     fengmk2: 'fengmk2@gmail.com',
-    admin: 'admin@cnpmjs.org',
+    admin: 'caojian119499@pwrd.com',
     dead_horse: 'dead_horse@qq.com',
   },
 
@@ -94,12 +94,12 @@ var config = {
     from: 'cnpmjs.org mail sender <adderss@gmail.com>',
     service: 'gmail',
     auth: {
-      user: 'address@gmail.com',
-      pass: 'your password'
+      user: 'caojian119499@pwrd.com',
+      pass: 'hjkl;2018'
     }
   },
 
-  logoURL: 'https://os.alipayobjects.com/rmsportal/oygxuIUkkrRccUz.jpg', // cnpm logo image url
+  logoURL: 'https://sso.oa.wanmei.net/PWForms/images/logo.png', // cnpm logo image url
   adBanner: '',
   customReadmeFile: '', // you can use your custom readme file instead the cnpm one
   customFooter: '', // you can add copyright and site total script html here
@@ -177,7 +177,7 @@ var config = {
   enablePrivate: false,
 
   // registry scopes, if don't set, means do not support scopes
-  scopes: [ '@cnpm', '@cnpmtest', '@cnpm-test' ],
+  scopes: [ '@pwrd', '@perfect'],
 
   // some registry already have some private packages in global scope
   // but we want to treat them as scoped private packages,

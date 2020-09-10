@@ -81,7 +81,7 @@ var config = {
     }
   },
 
-  logoURL: 'https://sso.oa.wanmei.net/PWForms/images/logo.png', // cnpm logo image url
+  logoURL: 'https://pic.17qq.com/uploads/qsqfgmfmqy.jpeg', // cnpm logo image url
   adBanner: '',
   customReadmeFile: '', // you can use your custom readme file instead the cnpm one
   customFooter: '', // you can add copyright and site total script html here
